@@ -18,9 +18,9 @@ Welcome to BAT 3301 – Operations Management. During this course, you will lear
 
 ## Teaching Team 
 
-| Name                 | Office Hours   | Office Location    | Zoom(Join If You Can't Make It In-Person) |
-|----------------------|----------------|-------------|------|
-| Ian Liu              | Mon-Thur  4PM-5PM   | Chapman 416 |  [Zoom](https://trinity.zoom.us/j/95386383129)    |
+| Name        |  Email | Phone | Office Hours   | Office Location    | Zoom |
+|-------------|--------|-------|----------------|-------------|------|
+| Ian Liu     |  [yliu2@trinity.edu](yliu2@trinity.edu) | 210-999-7635 | Mon-Thur  4PM-5PM   | Chapman 416 |  [Zoom](https://trinity.zoom.us/j/95386383129)    |
 
 
 ## Mini-Essay Topics
