@@ -12,8 +12,8 @@ Welcome to BAT 3301 – Operations Management. During this course, you will lear
 
 | Session # | Location | Time                 |
 |---------|----------|------------------------|
-| Session 3 | Coates Library 310   | M/W  1:05 PM - 2:20 PM|
-| Session 4 | Coates Library 310   | M/W  2:30 PM - 3:45 PM|
+| Session 3 | Marrs McLean 177  | M/W  1:05 PM - 2:20 PM|
+| Session 4 | Marrs McLean 177  | M/W  2:30 PM - 3:45 PM|
 
 
 ## Teaching Team 
@@ -42,9 +42,9 @@ Welcome to BAT 3301 – Operations Management. During this course, you will lear
 
 | Topic                 | Due Dates   |
 |----------------------|----------------|
-| HW_1 on Forecasting | TBA  | 
-| HW_2 on Project and Capacity Management | TBA  | 
-| HW_3 on Process Management and Assembly Line Balancing  | TBA  | 
-| HW_4 on Planning and Quality Management | TBA  | 
-| HW_5 on Inventory Management I | TBA  | 
-| HW_6 on Inventory Management II  | TBA  | 
+| HW_1 on Productivity | TBA  | 
+| HW_2 on Forecasting | TBA  | 
+| HW_3 on Project and Capacity Management | TBA  | 
+| HW_4 on Process Management and Assembly Line Balancing  | TBA  | 
+| HW_5 on Planning and Quality Management | TBA  | 
+| HW_6 on Inventory Management | TBA  | 
