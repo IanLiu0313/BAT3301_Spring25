@@ -12,39 +12,41 @@ Welcome to BAT 3301 – Operations Management. During this course, you will lear
 
 | Session # | Location | Time                 |
 |---------|----------|------------------------|
-| Session 3 | Marrs McLean 177  | M/W  1:05 PM - 2:20 PM|
-| Session 4 | Marrs McLean 177  | M/W  2:30 PM - 3:45 PM|
+| Session 3 | Richardson Center 320  | T/Th  12:45 PM - 2:00 PM|
+| Session 4 | Richardson Center 320  | T/Th  2:10 PM - 3:25 PM|
 
 
 ## Teaching Team 
 
 | Name        |  Email | Phone | Office Hours   | Office Location    | Zoom |
-|-------------|--------|-------|----------------|-------------|------|
-| Ian Liu     |  [yliu2@trinity.edu](yliu2@trinity.edu) | 210-999-7635 | Mon-Thur  4PM-5PM   | Chapman 416 |  [Zoom](https://trinity.zoom.us/j/95386383129)    |
+|-------------|--------|-------|----------------|-------------|------|------|
+| Ian Liu     |  [yliu2@trinity.edu](yliu2@trinity.edu) | 210-999-7635 | T & Th 4-5PM \& F 2-4PM | Chapman 416 |  [Zoom](https://trinity.zoom.us/j/4090111710)    |
+
 
 
 ## Mini-Essay Topics
 
 | Topic                 | Due Dates   |
 |----------------------|----------------|
-| Shein, Temu or Anything You Use for Online Shopping | 11:59PM 09/02/2024 | 
-| $6000 Off of MSRP, Discount on Financing APR, Dealership Is Still Ripping Me Off, Why? | 11:59PM 09/09/2024  |
-| Southwest Airlines  | 11:59PM 09/16/2024 |
-| Small Businesses with Amazing Profit Margins  | 11:59PM 09/23/2024  |
-| OpenAI and Its Competitors  | 11:59PM 10/07/2024  |
-| Higher Educations(Private) and Their Operations Model  | 11:59PM 10/14/2024  |
-| Manufacturing Companies Are Relocating Their Factories, Why?  | 11:59PM 10/21/2024  |
-| The Impact of AI on Operations Management  | 11:59PM 11/11/2024  |
-| Stockbrokers Are Waiving Their Trading Fees; They are Still Very Profitable, Why?  | 11:59PM 11/18/2024  |
+| Shein, Temu or Anything You Use for Online Shopping | 11:59PM 01/28/2025 | 
+| $6000 Off of MSRP, Discount on Financing APR, Dealership Is Still Ripping Me Off, Why? | 11:59PM 02/24/2025  |
+| Southwest Airlines  | 11:59PM 02/11/2025 |
+| Small Businesses with Amazing Profit Margins  | 11:59PM 02/25/2025  |
+| OpenAI and Its Competitors  | 11:59PM 03/04/2025  |
+| Higher Educations(Private) and Their Operations Model  | 11:59PM 03/18/2025  |
+| Manufacturing Companies Are Relocating Their Factories, Why?  | 11:59PM 04/01/2025  |
+| The Impact of AI on Operations Management  | 11:59PM 04/08/2025  |
+| Stockbrokers Are Waiving Their Trading Fees; They are Still Very Profitable, Why?  | 11:59PM 04/15/2025  |
 
 
 ## Homework
 
 | Topic                 | Due Dates   |
 |----------------------|----------------|
-| HW_1 on Productivity | TBA  | 
-| HW_2 on Forecasting | TBA  | 
-| HW_3 on Project and Capacity Management | TBA  | 
-| HW_4 on Process Management and Assembly Line Balancing  | TBA  | 
-| HW_5 on Planning and Quality Management | TBA  | 
-| HW_6 on Inventory Management | TBA  | 
+| HW_1 on Productivity | Find on Canvas  | 
+| HW_2 on Forecasting | Find on Canvas  | 
+| HW_3 on Project and Capacity Management | Find on Canvas  | 
+| HW_4 on Process Management and Assembly Line Balancing  | Find on Canvas  | 
+| HW_5 on Planning and Quality Management | Find on Canvas  | 
+| HW_6 on Inventory Management | Find on Canvas  | 
+| HW_7 on Operations Research | Find on Canvas  | 
