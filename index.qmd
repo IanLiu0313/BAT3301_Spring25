@@ -28,15 +28,16 @@ Welcome to BAT 3301 – Operations Management. During this course, you will lear
 
 | Topic                 | Due Dates   |
 |----------------------|----------------|
-| Shein, Temu or Anything You Use for Online Shopping | 11:59PM 01/28/2025 | 
-| $6000 Off of MSRP, Discount on Financing APR, Dealership Is Still Ripping Me Off, Why? | 11:59PM 02/24/2025  |
-| Southwest Airlines  | 11:59PM 02/11/2025 |
-| Small Businesses with Amazing Profit Margins  | 11:59PM 02/25/2025  |
-| OpenAI and Its Competitors  | 11:59PM 03/04/2025  |
-| Higher Educations(Private) and Their Operations Model  | 11:59PM 03/18/2025  |
-| Manufacturing Companies Are Relocating Their Factories, Why?  | 11:59PM 04/01/2025  |
-| The Impact of AI on Operations Management  | 11:59PM 04/08/2025  |
-| Stockbrokers Are Waiving Their Trading Fees; They are Still Very Profitable, Why?  | 11:59PM 04/15/2025  |
+| 1. Shein, Temu or Anything You Use For Online Shopping | 11:59PM 01/28/2025 | 
+| 2. $6000 Off Of MSRP, Discount On Financing APR, I Still Got Ripped Off By The Dealership, Why? | 11:59PM 02/04/2025  |
+| 3. Southwest Airlines  | 11:59PM 02/11/2025 |
+| 4. Small Businesses With Amazing Profit Margins  | 11:59PM 02/25/2025  |
+| 5. OpenAI And Its Competitors  | 11:59PM 03/04/2025  |
+| 6. Higher Educations(Private) and Their Operations Model  | 11:59PM 03/18/2025  |
+| 7. Manufacturing Companies Are Relocating Their Factories, Why?  | 11:59PM 04/01/2025  |
+| 8. The Impact of AI On Operations Management  | 11:59PM 04/08/2025  |
+| 9. Stockbrokers Are Waiving Their Trading Fees; They Are Still Very Profitable, Why?  | 11:59PM 04/15/2025  |
+| 10. Would You Invest In Cryptos, Why Or Why Not? | 11:59PM 04/22/2025  |
 
 
 ## Homework
